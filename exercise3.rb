@@ -8,17 +8,12 @@
 
 # puts "You were born in #{year - age.to_i}" 
 
-# if true 
-# 	puts " I get printed"
+# counter = 3
+# until  counter == 0 
+# 	puts "Counter currently at #{counter}"
+# 	counter -= 1
 # end 
 
-x= 3
-y= 4
+# 3.times {puts "chunky bacon!"}
 
-if x >y
-	puts "x is greater than y!"
-elsif x<y
-	puts "x is less than y!"
-else 
-	puts "x equals y!"
-end 
+(1..5)
